@@ -1,0 +1,75 @@
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.AssemblyReference.cache
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfoInputs.cache
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfo.cs
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.CoreCompileInputs.cache
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.sourcelink.json
+C:\workplace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.deps.json
+C:\workplace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.runtimeconfig.json
+C:\workplace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\workplace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.dll
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\refint\MeuProjetinho.Data.dll
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.genruntimeconfig.cache
+C:\workplace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\ref\MeuProjetinho.Data.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.deps.json
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.runtimeconfig.json
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.AssemblyReference.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfoInputs.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfo.cs
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.CoreCompileInputs.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.sourcelink.json
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\refint\MeuProjetinho.Data.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.genruntimeconfig.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\ref\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.deps.json
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.runtimeconfig.json
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.AssemblyReference.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfoInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfo.cs
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.CoreCompileInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.sourcelink.json
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\refint\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.genruntimeconfig.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\ref\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.deps.json
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.runtimeconfig.json
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.AssemblyReference.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfoInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfo.cs
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.CoreCompileInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.sourcelink.json
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\refint\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.genruntimeconfig.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\ref\MeuProjetinho.Data.dll
+C:\workspace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.deps.json
+C:\workspace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.runtimeconfig.json
+C:\workspace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\workspace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.AssemblyReference.cache
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfoInputs.cache
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.AssemblyInfo.cs
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.csproj.CoreCompileInputs.cache
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.sourcelink.json
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.dll
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\refint\MeuProjetinho.Data.dll
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.genruntimeconfig.cache
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\ref\MeuProjetinho.Data.dll

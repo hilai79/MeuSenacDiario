@@ -1,0 +1,265 @@
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.exe
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.deps.json
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.runtimeconfig.json
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.pdb
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Google.Protobuf.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySql.Data.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\ZstdSharp.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.AssemblyReference.cache
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfoInputs.cache
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfo.cs
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.CoreCompileInputs.cache
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProje.522B5215.Up2Date
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.dll
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\refint\MeuProjetinho.dll
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.pdb
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.genruntimeconfig.cache
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\ref\MeuProjetinho.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySqlConnector.dll
+C:\workplace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\workplace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.sourcelink.json
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.exe
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.deps.json
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.runtimeconfig.json
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.pdb
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.AssemblyReference.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfoInputs.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfo.cs
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.CoreCompileInputs.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.sourcelink.json
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProje.522B5215.Up2Date
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\refint\MeuProjetinho.dll
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.pdb
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.genruntimeconfig.cache
+C:\Users\hilai\Downloads\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\ref\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.exe
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.deps.json
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.runtimeconfig.json
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.AssemblyReference.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfoInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfo.cs
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.CoreCompileInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.sourcelink.json
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProje.522B5215.Up2Date
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\refint\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.genruntimeconfig.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario 1\Senacdiario\Senacdiario\MeuProjetinho\obj\Debug\net9.0\ref\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.exe
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.deps.json
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.runtimeconfig.json
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.AssemblyReference.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfoInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfo.cs
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.CoreCompileInputs.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.sourcelink.json
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProje.522B5215.Up2Date
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\refint\MeuProjetinho.dll
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.pdb
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.genruntimeconfig.cache
+C:\Users\Prog_Sis\Downloads\Senacdiario\MeuProjetinho\obj\Debug\net9.0\ref\MeuProjetinho.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.exe
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.deps.json
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.runtimeconfig.json
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.pdb
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Google.Protobuf.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySql.Data.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MySqlConnector.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\ZstdSharp.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuProjetinho.Data.pdb
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.AssemblyReference.cache
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfoInputs.cache
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.AssemblyInfo.cs
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.csproj.CoreCompileInputs.cache
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.sourcelink.json
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProje.522B5215.Up2Date
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.dll
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\refint\MeuProjetinho.dll
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.pdb
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.genruntimeconfig.cache
+C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\ref\MeuProjetinho.dll
