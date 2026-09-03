@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using MeuDiarioSenac.Model;
 using MySql.Data.MySqlClient;
 
 namespace MeuProjetinho.Data;
@@ -7,7 +8,8 @@ public class MeuDiarioSENACContext : DbContext
 {
     public DbSet<Registro> Registros { get; set; } = null!;
     public DbSet<Usuario> Usuarios { get; set; } = null!;
-    private static string connectionString = "Server=localhost;Port=3306;Database=senacdiario;Uid=root;Pwd=S&nac2024;";
+
+    private static readonly string connectionString = "Server=localhost;Port=3306;Database=senacdiario;Uid=root;Pwd=S&nac2024;";
 
     public static MySqlConnection GetConnection()
     {

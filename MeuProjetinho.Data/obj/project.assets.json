@@ -1139,6 +1139,16 @@
         "runtime": {
           "lib/net9.0/ZstdSharp.dll": {}
         }
+      },
+      "MeuDiarioSenac.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MeuDiarioSenac.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSenac.Model.dll": {}
+        }
       }
     }
   },
@@ -3356,10 +3366,16 @@
         "zstdsharp.port.0.8.8.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "MeuDiarioSenac.Model/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSenac.Model/MeuDiarioSenac.Model.csproj",
+      "msbuildProject": "../MeuDiarioSenac.Model/MeuDiarioSenac.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "MeuDiarioSenac.Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
@@ -3391,7 +3407,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\workspace\\Senacdiario\\MeuDiarioSenac.Model\\MeuDiarioSenac.Model.csproj": {
+              "projectPath": "C:\\workspace\\Senacdiario\\MeuDiarioSenac.Model\\MeuDiarioSenac.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

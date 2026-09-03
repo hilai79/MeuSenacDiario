@@ -73,3 +73,6 @@ C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\refint\MeuProjetinh
 C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.pdb
 C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProjetinho.Data.genruntimeconfig.cache
 C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\ref\MeuProjetinho.Data.dll
+C:\workspace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuDiarioSenac.Model.dll
+C:\workspace\Senacdiario\MeuProjetinho.Data\bin\Debug\net9.0\MeuDiarioSenac.Model.pdb
+C:\workspace\Senacdiario\MeuProjetinho.Data\obj\Debug\net9.0\MeuProje.30D3617C.Up2Date

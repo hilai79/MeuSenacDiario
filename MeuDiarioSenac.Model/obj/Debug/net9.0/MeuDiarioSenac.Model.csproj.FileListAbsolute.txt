@@ -1,0 +1,12 @@
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\bin\Debug\net9.0\MeuDiarioSenac.Model.deps.json
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\bin\Debug\net9.0\MeuDiarioSenac.Model.dll
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\bin\Debug\net9.0\MeuDiarioSenac.Model.pdb
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\MeuDiarioSenac.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\MeuDiarioSenac.Model.AssemblyInfoInputs.cache
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\MeuDiarioSenac.Model.AssemblyInfo.cs
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\MeuDiarioSenac.Model.csproj.CoreCompileInputs.cache
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\MeuDiarioSenac.Model.sourcelink.json
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\MeuDiarioSenac.Model.dll
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\refint\MeuDiarioSenac.Model.dll
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\MeuDiarioSenac.Model.pdb
+C:\workspace\Senacdiario\MeuDiarioSenac.Model\obj\Debug\net9.0\ref\MeuDiarioSenac.Model.dll

@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MeuProjetinho.Data\MeuProjetinho.Data.csproj" />
+    <ProjectReference Include="..\MeuDiarioSenac.Model\MeuDiarioSenac.Model.csproj" />
+    <ProjectReference Include="..\MeuDiarioSenac.Business\MeuDiarioSenac.Business.csproj" />
   </ItemGroup>
 
 </Project>

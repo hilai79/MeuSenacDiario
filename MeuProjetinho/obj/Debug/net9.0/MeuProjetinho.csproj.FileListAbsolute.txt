@@ -263,3 +263,7 @@ C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\refint\MeuProjetinho.dll
 C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.pdb
 C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\MeuProjetinho.genruntimeconfig.cache
 C:\workspace\Senacdiario\MeuProjetinho\obj\Debug\net9.0\ref\MeuProjetinho.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Model.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Model.pdb
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Business.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Business.pdb
