@@ -527,6 +527,21 @@
           "bin/placeholder/MeuDiarioSenac.Model.dll": {}
         }
       },
+      "MeuDiarioSenac.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MeuDiarioSenac.Business": "1.0.0",
+          "MeuDiarioSenac.Model": "1.0.0",
+          "MeuProjetinho.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MeuDiarioSenac.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSenac.Service.dll": {}
+        }
+      },
       "MeuProjetinho.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1321,6 +1336,11 @@
       "path": "../MeuDiarioSenac.Model/MeuDiarioSenac.Model.csproj",
       "msbuildProject": "../MeuDiarioSenac.Model/MeuDiarioSenac.Model.csproj"
     },
+    "MeuDiarioSenac.Service/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSenac.Service/MeuDiarioSenac.Service.csproj",
+      "msbuildProject": "../MeuDiarioSenac.Service/MeuDiarioSenac.Service.csproj"
+    },
     "MeuProjetinho.Data/1.0.0": {
       "type": "project",
       "path": "../MeuProjetinho.Data/MeuProjetinho.Data.csproj",
@@ -1331,6 +1351,7 @@
     "net9.0": [
       "MeuDiarioSenac.Business >= 1.0.0",
       "MeuDiarioSenac.Model >= 1.0.0",
+      "MeuDiarioSenac.Service >= 1.0.0",
       "MeuProjetinho.Data >= 1.0.0"
     ]
   },
@@ -1364,6 +1385,9 @@
             },
             "C:\\workspace\\Senacdiario\\MeuDiarioSenac.Model\\MeuDiarioSenac.Model.csproj": {
               "projectPath": "C:\\workspace\\Senacdiario\\MeuDiarioSenac.Model\\MeuDiarioSenac.Model.csproj"
+            },
+            "C:\\workspace\\Senacdiario\\MeuDiarioSenac.Service\\MeuDiarioSenac.Service.csproj": {
+              "projectPath": "C:\\workspace\\Senacdiario\\MeuDiarioSenac.Service\\MeuDiarioSenac.Service.csproj"
             },
             "C:\\workspace\\Senacdiario\\MeuProjetinho.Data\\MeuProjetinho.Data.csproj": {
               "projectPath": "C:\\workspace\\Senacdiario\\MeuProjetinho.Data\\MeuProjetinho.Data.csproj"

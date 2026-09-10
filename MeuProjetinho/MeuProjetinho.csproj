@@ -11,6 +11,7 @@
     <ProjectReference Include="..\MeuProjetinho.Data\MeuProjetinho.Data.csproj" />
     <ProjectReference Include="..\MeuDiarioSenac.Model\MeuDiarioSenac.Model.csproj" />
     <ProjectReference Include="..\MeuDiarioSenac.Business\MeuDiarioSenac.Business.csproj" />
+    <ProjectReference Include="..\MeuDiarioSenac.Service\MeuDiarioSenac.Service.csproj" />
   </ItemGroup>
 
 </Project>

@@ -11,17 +11,16 @@ public class UsuarioBusiness
     }
 
     public bool NomeMax(string nome)
-    {   
+    {
         try
         {
             using var contexto = new MeuDiarioSENACContext();
-            return nome.Length <= 1;
+            return nome.Length <= 50;
         }
         catch (Exception ex)
         {
             Console.WriteLine($"Erro ao verificar nomes máximos: {ex.Message}");
             return false;
         }
-        return nome.Length <= 1;
     }
 }

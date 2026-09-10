@@ -267,3 +267,5 @@ C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Model.dll
 C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Model.pdb
 C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Business.dll
 C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Business.pdb
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Service.dll
+C:\workspace\Senacdiario\MeuProjetinho\bin\Debug\net9.0\MeuDiarioSenac.Service.pdb

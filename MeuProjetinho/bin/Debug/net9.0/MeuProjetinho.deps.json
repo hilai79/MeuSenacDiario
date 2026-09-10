@@ -10,6 +10,7 @@
         "dependencies": {
           "MeuDiarioSenac.Business": "1.0.0",
           "MeuDiarioSenac.Model": "1.0.0",
+          "MeuDiarioSenac.Service": "1.0.0",
           "MeuProjetinho.Data": "1.0.0"
         },
         "runtime": {
@@ -363,6 +364,19 @@
           }
         }
       },
+      "MeuDiarioSenac.Service/1.0.0": {
+        "dependencies": {
+          "MeuDiarioSenac.Business": "1.0.0",
+          "MeuDiarioSenac.Model": "1.0.0",
+          "MeuProjetinho.Data": "1.0.0"
+        },
+        "runtime": {
+          "MeuDiarioSenac.Service.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "MeuProjetinho.Data/1.0.0": {
         "dependencies": {
           "MeuDiarioSenac.Model": "1.0.0",
@@ -587,6 +601,11 @@
       "sha512": ""
     },
     "MeuDiarioSenac.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MeuDiarioSenac.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
