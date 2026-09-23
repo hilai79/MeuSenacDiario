@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeuDiarioSenac.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba99e32769f76879404e346c85aa0750275a90ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60fa5d452b1df5332ac20c74060b4a32a8727763")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeuDiarioSenac.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeuDiarioSenac.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
