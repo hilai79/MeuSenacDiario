@@ -23,6 +23,9 @@ public class MeuDiarioSENACContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Registro>().ToTable("registros");
+        modelBuilder.Entity<Usuario>().ToTable("usuarios");
+
         modelBuilder.Entity<Usuario>()
             .HasMany(u => u.Registros)
             .WithOne(r => r.Usuario)

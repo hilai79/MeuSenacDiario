@@ -58,6 +58,23 @@ public class RegistroService
             .ToList();
     }
 
+    public List<RegistroDAO> ListarTodos()
+    {
+        using var contexto = new MeuDiarioSENACContext();
+
+        return contexto.Registros
+            .AsNoTracking()
+            .OrderBy(registro => registro.Id)
+            .Select(registro => new RegistroDAO(
+                registro.Id,
+                registro.Titulo,
+                registro.Data,
+                registro.Conteudo,
+                registro.UsuarioId,
+                registro.Usuario.Nome))
+            .ToList();
+    }
+
     public void ApagarTodosRegistros()
     {
         using var contexto = new MeuDiarioSENACContext();
