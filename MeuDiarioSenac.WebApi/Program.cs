@@ -13,11 +13,16 @@ builder.Services.ConfigureHttpJsonOptions(options =>
 
 var app = builder.Build();
 
+app.MapPost("/login/auth", () =>
+{
+   TokenService authService = new TokenService(builder.Configuration);
+   return authService.GerarToken(null);
+});
+
 var registrosGroup = app.MapGroup("/registros");
 
 app.MapGet("/", () => "boa noite");
 
-app.MapGet("/motivacional", () => "Não desista, grandes coisas levam tempo. Continue persistindo e você alcançará seus objetivos!");
 
 registrosGroup.MapGet("/", () => {
     return new RegistroService().ListarRegistros();
@@ -35,6 +40,14 @@ registrosGroup.MapPost("/", ([FromBody] Registro registro) => {
 registrosGroup.MapDelete("/", () => {
     var registrosApagados = new RegistroService().ApagarTodosRegistros();
     return Results.Ok($"{registrosApagados} registro(s) excluído(s) com sucesso!");
+});
+
+registrosGroup.MapDelete("/{id:int}", (int id) => {
+    var apagado = new RegistroService().ApagarRegistro(id);
+
+    return apagado
+        ? Results.Ok($"Registro com id {id} excluído com sucesso!")
+        : Results.NotFound($"Registro com id {id} não encontrado.");
 });
 
 registrosGroup.MapPut("/{id:int}", (int id, [FromBody] Registro registro) => {
