@@ -12,7 +12,6 @@ C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.W
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.AssemblyInfo.cs
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.csproj.CoreCompileInputs.cache
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.sourcelink.json
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -23,7 +22,6 @@ C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\staticwebassets.
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.dll
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\refint\MeuDiarioSenac.WebApi.dll
-C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.pdb
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.genruntimeconfig.cache
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\ref\MeuDiarioSenac.WebApi.dll
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
@@ -70,3 +68,12 @@ C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\bin\Debug\net9.0\Microsoft.Identi
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prog_Sis\AppData\Local\Temp\MeuDiarioSenac.WebApi-build\appsettings.Development.json
+C:\Users\Prog_Sis\AppData\Local\Temp\MeuDiarioSenac.WebApi-build\appsettings.json
+C:\Users\Prog_Sis\AppData\Local\Temp\MeuDiarioSenac.WebApi-build\MeuDiarioSenac.WebApi.staticwebassets.endpoints.json
+C:\Users\Prog_Sis\AppData\Local\Temp\MeuDiarioSenac.WebApi-build\MeuDiarioSenac.WebApi.exe
+C:\Users\Prog_Sis\AppData\Local\Temp\MeuDiarioSenac.WebApi-build\MeuDiarioSenac.WebApi.deps.json
+C:\Users\Prog_Sis\AppData\Local\Temp\MeuDiarioSenac.WebApi-build\MeuDiarioSenac.WebApi.runtimeconfig.json
+C:\Users\Prog_Sis\AppData\Local\Temp\MeuDiarioSenac.WebApi-build\MeuDiarioSenac.WebApi.dll
+C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.sourcelink.json
+C:\workspace\Senacdiario\MeuDiarioSenac.WebApi\obj\Debug\net9.0\MeuDiarioSenac.WebApi.pdb
